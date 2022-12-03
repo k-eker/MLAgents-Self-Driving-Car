@@ -1,0 +1,38 @@
+{
+    "AvoidObstacles": {
+        "checkpoints": [
+            {
+                "steps": 499973,
+                "file_path": "results\\RetroTest3\\AvoidObstacles\\AvoidObstacles-499973.onnx",
+                "reward": 13.388827997925025,
+                "creation_time": 1620392532.6495903,
+                "auxillary_file_paths": [
+                    "results\\RetroTest3\\AvoidObstacles\\AvoidObstacles-499973.pt"
+                ]
+            },
+            {
+                "steps": 500013,
+                "file_path": "results\\RetroTest3\\AvoidObstacles\\AvoidObstacles-500013.onnx",
+                "reward": 12.223586964653805,
+                "creation_time": 1620392532.8380945,
+                "auxillary_file_paths": [
+                    "results\\RetroTest3\\AvoidObstacles\\AvoidObstacles-500013.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500013,
+            "file_path": "results\\RetroTest3\\AvoidObstacles.onnx",
+            "reward": 12.223586964653805,
+            "creation_time": 1620392532.8380945,
+            "auxillary_file_paths": [
+                "results\\RetroTest3\\AvoidObstacles\\AvoidObstacles-500013.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.8.1+cu111"
+    }
+}

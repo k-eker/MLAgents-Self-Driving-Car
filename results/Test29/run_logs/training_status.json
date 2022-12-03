@@ -1,0 +1,29 @@
+{
+    "AvoidObstacles": {
+        "checkpoints": [
+            {
+                "steps": 7360,
+                "file_path": "results\\Test29\\AvoidObstacles\\AvoidObstacles-7360.onnx",
+                "reward": null,
+                "creation_time": 1620079381.761316,
+                "auxillary_file_paths": [
+                    "results\\Test29\\AvoidObstacles\\AvoidObstacles-7360.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7360,
+            "file_path": "results\\Test29\\AvoidObstacles.onnx",
+            "reward": null,
+            "creation_time": 1620079381.761316,
+            "auxillary_file_paths": [
+                "results\\Test29\\AvoidObstacles\\AvoidObstacles-7360.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.8.1+cu111"
+    }
+}

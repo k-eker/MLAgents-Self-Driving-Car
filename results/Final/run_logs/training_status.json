@@ -1,0 +1,56 @@
+{
+    "AvoidObstacles": {
+        "checkpoints": [
+            {
+                "steps": 499957,
+                "file_path": "results\\Final\\AvoidObstacles\\AvoidObstacles-499957.onnx",
+                "reward": 7.544062096159905,
+                "creation_time": 1620497059.364921,
+                "auxillary_file_paths": [
+                    "results\\Final\\AvoidObstacles\\AvoidObstacles-499957.pt"
+                ]
+            },
+            {
+                "steps": 500021,
+                "file_path": "results\\Final\\AvoidObstacles\\AvoidObstacles-500021.onnx",
+                "reward": 7.544062096159905,
+                "creation_time": 1620497059.49956,
+                "auxillary_file_paths": [
+                    "results\\Final\\AvoidObstacles\\AvoidObstacles-500021.pt"
+                ]
+            },
+            {
+                "steps": 999949,
+                "file_path": "results\\Final\\AvoidObstacles\\AvoidObstacles-999949.onnx",
+                "reward": 8.450686906464398,
+                "creation_time": 1620500243.2703454,
+                "auxillary_file_paths": [
+                    "results\\Final\\AvoidObstacles\\AvoidObstacles-999949.pt"
+                ]
+            },
+            {
+                "steps": 1287551,
+                "file_path": "results\\Final\\AvoidObstacles\\AvoidObstacles-1287551.onnx",
+                "reward": 9.336637389801798,
+                "creation_time": 1620501997.7259781,
+                "auxillary_file_paths": [
+                    "results\\Final\\AvoidObstacles\\AvoidObstacles-1287551.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1287551,
+            "file_path": "results\\Final\\AvoidObstacles.onnx",
+            "reward": 9.336637389801798,
+            "creation_time": 1620501997.7259781,
+            "auxillary_file_paths": [
+                "results\\Final\\AvoidObstacles\\AvoidObstacles-1287551.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.8.1+cu111"
+    }
+}
